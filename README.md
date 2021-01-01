@@ -2,6 +2,7 @@
 <ul>
   <li><a href="https://www.python.org/downloads/release/python-370">Python version 3.0</a></li>
   <li><a href="https://www.jetbrains.com/pycharm/">PyCharm IDE</a></li>
+  <li><a href="http://cs101.kaist.ac.kr/assets/files/cs101_libraries_py35.zip">CS101 Library Download</a></li>
 </ul>
 
 ## Python 프로그램 작성 예제
@@ -11,7 +12,7 @@
     <li>새로운 함수의 이름과 함수가 호출될 때 실행될 명령들로 만들어짐</li>
 </ul>
 
-Python은 들여쓰기가 중요하다
+##### Python은 들여쓰기가 중요하다
 
 ``` 
 def print_message():
@@ -19,7 +20,7 @@ def print_message():
     print("Programming is fun!")
 ```
 
-총 4줄의 메시지가 출력된다 (함수를 2번 호출)
+##### 총 4줄의 메시지가 출력된다 (함수를 2번 호출)
 
 ``` 
 def repeat_message():
@@ -27,5 +28,4 @@ def repeat_message():
     print_message()
 ``` 
 
-1-2. Python 프로그램 작성 예제
-<a href=""></a>
+1-2. Python 프로그램 작성 예제 <a href="https://github.com/2SunE/python_programming/tree/master/ch01">코드</a>
