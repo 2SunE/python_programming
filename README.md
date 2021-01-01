@@ -1,8 +1,8 @@
-# python_programming
-
-### Python 개발 환경
-<a href="https://www.python.org/downloads/release/python-370">Python version 3.0</a>
-<a href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC">PyCharm IDE</a>
+## Python 개발 환경
+<ul>
+  <li><a href="https://www.python.org/downloads/release/python-370">Python version 3.0</a></li>
+  <li><a href="https://www.jetbrains.com/pycharm/">PyCharm IDE</a></li>
+</ul>
 
 ### Python 프로그램 작성 예제
 <h5>새로운 함수 만들기</h5>
