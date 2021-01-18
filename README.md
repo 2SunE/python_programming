@@ -27,6 +27,6 @@ def repeat_message():
     print_message() 
     print_message() 
 ``` 
-
+ 
 1-2. Python 프로그램 작성 예제 <a href="https://github.com/2SunE/python_programming/tree/master/ch01">코드</a>
  
